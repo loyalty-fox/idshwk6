@@ -1,0 +1,680 @@
+date and time 
+当前日期: 2020/05/12 周二
+当前时间: 22:29:01.29
+
+os version
+主机名:           DESKTOP-6LLT1I5
+OS 名称:          Microsoft Windows 10 家庭中文版
+OS 版本:          10.0.18363 暂缺 Build 18363
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     暂缺
+注册的组织:       暂缺
+产品 ID:          00342-30262-00002-AAOEM
+初始安装日期:     2019/9/3, 19:10:35
+系统启动时间:     2020/4/15, 18:06:31
+系统制造商:       ASUSTeK COMPUTER INC.
+系统型号:         FX503VD
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~1600 Mhz
+BIOS 版本:        American Megatrends Inc. FX503VD.302, 2017/10/3
+Windows 目录:     C:\WINDOWS
+系统目录:         C:\WINDOWS\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     8,076 MB
+可用的物理内存:   4,030 MB
+虚拟内存: 最大值: 11,020 MB
+虚拟内存: 可用:   4,655 MB
+虚拟内存: 使用中: 6,365 MB
+页面文件位置:     D:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\DESKTOP-6LLT1I5
+修补程序:         安装了 17 个修补程序。
+                  [01]: KB4534132
+                  [02]: KB4503308
+                  [03]: KB4508433
+                  [04]: KB4515383
+                  [05]: KB4515530
+                  [06]: KB4516115
+                  [07]: KB4517245
+                  [08]: KB4520390
+                  [09]: KB4521863
+                  [10]: KB4524569
+                  [11]: KB4525419
+                  [12]: KB4528759
+                  [13]: KB4537759
+                  [14]: KB4538674
+                  [15]: KB4541338
+                  [16]: KB4552152
+                  [17]: KB4549951
+网卡:             安装了 4 个 NIC。
+                  [01]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   是
+                      DHCP 服务器: 255.255.255.255
+                      IP 地址
+                        [01]: 169.254.165.38
+                        [02]: fe80::51b7:205a:b9a4:a526
+                  [02]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   是
+                      DHCP 服务器: 255.255.255.255
+                      IP 地址
+                        [01]: 169.254.99.211
+                        [02]: fe80::4ddf:fed3:ca10:63d3
+                  [03]: Realtek PCIe GBE Family Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [04]: Intel(R) Dual Band Wireless-AC 8265
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.1.1
+                      IP 地址
+                        [01]: 192.168.1.103
+                        [02]: fe80::6115:3a95:744e:8b95
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
+                  
+hardware information
+DiskExt v1.2 - Disk extent dumper
+Copyright (C) 2001-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Volume: \\?\Volume{812f062e-3b8e-4a6a-a9a6-4c9ccd8680b9}\
+   Mounted at: C:\
+   Extent [1]:
+       Disk:   0
+       Offset: 290455552
+       Length: 126906007552
+Volume: \\?\Volume{e7b84fbc-6e76-42ca-9a40-004107d60017}\
+   Mounted at: <unmounted>
+   Extent [1]:
+       Disk:   0
+       Offset: 127196463104
+       Length: 838860800
+Volume: \\?\Volume{a57ffbdd-a6a2-46fa-b6a4-f0bb8166dcfb}\
+   Mounted at: D:\
+   Extent [1]:
+       Disk:   1
+       Offset: 1048576
+       Length: 1000203091968
+Volume: \\?\Volume{2353a657-3fe4-4ec3-a126-d7aae421fcfd}\
+   Mounted at: <unmounted>
+   Error getting extents
+拒绝访问。
+
+uptime
+系统启动时间:     2020/4/15, 18:06:31
+
+service information
+Sysinternals Autoruns v13.96 - Autostart program viewer
+Copyright (C) 2002-2019 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+
+HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\rdpwd\StartupPrograms
+   rdpclip
+     rdpclip
+     RDP ???????
+     Microsoft Corporation
+     10.0.18362.752
+     c:\windows\system32\rdpclip.exe
+     1921/12/1 20:34
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+   C:\Windows\system32\userinit.exe
+     C:\Windows\system32\userinit.exe
+     Userinit ??????
+     Microsoft Corporation
+     10.0.18362.1
+     c:\windows\system32\userinit.exe
+     1940/8/17 19:07
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\VmApplet
+   SystemPropertiesPerformance.exe
+     SystemPropertiesPerformance.exe
+     ?????????
+     Microsoft Corporation
+     10.0.18362.1
+     c:\windows\system32\systempropertiesperformance.exe
+     1969/7/2 16:26
+
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+   explorer.exe
+     explorer.exe
+     Windows ?????
+     Microsoft Corporation
+     10.0.18362.693
+     c:\windows\explorer.exe
+     2017/1/16 8:53
+
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\AlternateShell
+   cmd.exe
+     cmd.exe
+     Windows ??????
+     Microsoft Corporation
+     10.0.18362.449
+     c:\windows\system32\cmd.exe
+     1914/12/28 14:19
+
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+   SecurityHealth
+     %windir%\system32\SecurityHealthSystray.exe
+     Windows Security notification icon
+     Microsoft Corporation
+     10.0.18362.628
+     c:\windows\system32\securityhealthsystray.exe
+     2032/12/4 8:10
+   AdobeGCInvoker-1.0
+     "C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGCInvokerUtility.exe"
+     Adobe GC Invoker Utility
+     Adobe Systems, Incorporated
+     6.6.0.204
+     c:\program files (x86)\common files\adobe\adobegcclient\agcinvokerutility.exe
+     2020/3/4 20:03
+
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run
+   360Safetray
+     "D:\Program Files (x86)\360\360Safe\safemon\360tray.exe" /start
+     360???? ????????
+     360.cn
+     12.0.0.1221
+     d:\program files (x86)\360\360safe\safemon\360tray.exe
+     2020/4/9 19:30
+
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /ShowWMP
+     Microsoft Windows Media Player ??????
+     Microsoft Corporation
+     12.0.18362.1
+     c:\windows\system32\unregmp2.exe
+     1905/1/19 16:25
+   Themes Setup
+     themeui.dll
+     Windows ?? API
+     Microsoft Corporation
+     10.0.18362.1
+     c:\windows\system32\themeui.dll
+     2004/6/4 0:28
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /FirstLogon
+     Microsoft Windows Media Player ??????
+     Microsoft Corporation
+     12.0.18362.1
+     c:\windows\system32\unregmp2.exe
+     1905/1/19 16:25
+   Windows Desktop Update
+     shell32.dll
+     Windows Shell ?? DLL
+     Microsoft Corporation
+     10.0.18362.719
+     c:\windows\system32\shell32.dll
+     2021/3/19 19:01
+   Web Platform Customizations
+     C:\Windows\System32\ie4uinit.exe -UserConfig
+     IE ????????
+     Microsoft Corporation
+     11.0.18362.628
+     c:\windows\system32\ie4uinit.exe
+     1912/12/24 7:59
+   n/a
+     C:\Windows\System32\Rundll32.exe C:\Windows\System32\mscories.dll,Install
+     Microsoft .NET IE SECURITY REGISTRATION
+     Microsoft Corporation
+     2.0.50727.9136
+     c:\windows\system32\mscories.dll
+     2019/3/4 20:54
+
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /ShowWMP
+     Microsoft Windows Media Player Setup Utility
+     Microsoft Corporation
+     12.0.18362.1
+     c:\windows\syswow64\unregmp2.exe
+     1982/6/14 6:30
+   Microsoft Windows Media Player
+     %SystemRoot%\system32\unregmp2.exe /FirstLogon
+     Microsoft Windows Media Player Setup Utility
+     Microsoft Corporation
+     12.0.18362.1
+     c:\windows\syswow64\unregmp2.exe
+     1982/6/14 6:30
+   n/a
+     C:\Windows\SysWOW64\Rundll32.exe C:\Windows\SysWOW64\mscories.dll,Install
+     Microsoft .NET IE SECURITY REGISTRATION
+     Microsoft Corporation
+     2.0.50727.9136
+     c:\windows\syswow64\mscories.dll
+     2019/3/5 2:12
+
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\IconServiceLib
+   IconCodecService.dll
+     IconCodecService.dll
+     Converts a PNG part of the icon to a legacy bmp icon
+     Microsoft Corporation
+     10.0.18362.1
+     c:\windows\system32\iconcodecservice.dll
+     1943/11/28 10:47
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+   ctfmon
+     C:\WINDOWS\system32\ctfmon.exe
+     CTF ????
+     Microsoft Corporation
+     10.0.18362.1
+     c:\windows\system32\ctfmon.exe
+     2012/12/25 15:01
+
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+   ctfmon
+     C:\WINDOWS\system32\ctfmon.exe
+     CTF ????
+     Microsoft Corporation
+     10.0.18362.1
+     c:\windows\system32\ctfmon.exe
+     2012/12/25 15:01
+
+nic information
+Windows IP 配置
+
+   主机名  . . . . . . . . . . . . . : DESKTOP-6LLT1I5
+   主 DNS 后缀 . . . . . . . . . . . :
+   节点类型  . . . . . . . . . . . . : 混合
+   IP 路由已启用 . . . . . . . . . . : 否
+   WINS 代理已启用 . . . . . . . . . : 否
+   DNS 后缀搜索列表  . . . . . . . . : DHCP HOST
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   物理地址. . . . . . . . . . . . . : 2C-FD-A1-3F-FA-9D
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 本地连接* 1:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   物理地址. . . . . . . . . . . . . : 02-E1-8C-F2-88-A7
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 本地连接* 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   物理地址. . . . . . . . . . . . . : 00-E1-8C-F2-88-A8
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+以太网适配器 VMware Network Adapter VMnet1:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   物理地址. . . . . . . . . . . . . : 00-50-56-C0-00-01
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::51b7:205a:b9a4:a526%3(首选)
+   自动配置 IPv4 地址  . . . . . . . : 169.254.165.38(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.0.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 100683862
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-21-AF-6A-D4-2C-FD-A1-3F-FA-9D
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 VMware Network Adapter VMnet8:
+
+   连接特定的 DNS 后缀 . . . . . . . :
+   描述. . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   物理地址. . . . . . . . . . . . . : 00-50-56-C0-00-08
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::4ddf:fed3:ca10:63d3%10(首选)
+   自动配置 IPv4 地址  . . . . . . . : 169.254.99.211(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.0.0
+   默认网关. . . . . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 318787670
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-21-AF-6A-D4-2C-FD-A1-3F-FA-9D
+   DNS 服务器  . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . : DHCP HOST
+   描述. . . . . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 8265
+   物理地址. . . . . . . . . . . . . : 00-E1-8C-F2-88-A7
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::6115:3a95:744e:8b95%17(首选)
+   IPv4 地址 . . . . . . . . . . . . : 192.168.1.103(首选)
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   获得租约的时间  . . . . . . . . . : 2020年5月12日 22:06:16
+   租约过期的时间  . . . . . . . . . : 2020年5月13日 0:06:16
+   默认网关. . . . . . . . . . . . . : 192.168.1.1
+   DHCP 服务器 . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 100721036
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-21-AF-6A-D4-2C-FD-A1-3F-FA-9D
+   DNS 服务器  . . . . . . . . . . . : 172.16.23.168
+                                       172.16.23.131
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+route information
+接口列表
+  4...2c fd a1 3f fa 9d ......Realtek PCIe GBE Family Controller
+  7...02 e1 8c f2 88 a7 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 12...00 e1 8c f2 88 a8 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  3...00 50 56 c0 00 01 ......VMware Virtual Ethernet Adapter for VMnet1
+ 10...00 50 56 c0 00 08 ......VMware Virtual Ethernet Adapter for VMnet8
+ 17...00 e1 8c f2 88 a7 ......Intel(R) Dual Band Wireless-AC 8265
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 路由表
+===========================================================================
+活动路由:
+网络目标        网络掩码          网关       接口   跃点数
+          0.0.0.0          0.0.0.0      192.168.1.1    192.168.1.103     45
+        127.0.0.0        255.0.0.0            在链路上         127.0.0.1    331
+        127.0.0.1  255.255.255.255            在链路上         127.0.0.1    331
+  127.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+      169.254.0.0      255.255.0.0            在链路上    169.254.165.38    291
+      169.254.0.0      255.255.0.0            在链路上    169.254.99.211    291
+   169.254.99.211  255.255.255.255            在链路上    169.254.99.211    291
+   169.254.165.38  255.255.255.255            在链路上    169.254.165.38    291
+  169.254.255.255  255.255.255.255            在链路上    169.254.165.38    291
+  169.254.255.255  255.255.255.255            在链路上    169.254.99.211    291
+      192.168.1.0    255.255.255.0            在链路上     192.168.1.103    301
+    192.168.1.103  255.255.255.255            在链路上     192.168.1.103    301
+    192.168.1.255  255.255.255.255            在链路上     192.168.1.103    301
+        224.0.0.0        240.0.0.0            在链路上         127.0.0.1    331
+        224.0.0.0        240.0.0.0            在链路上     192.168.1.103    301
+        224.0.0.0        240.0.0.0            在链路上    169.254.99.211    291
+        224.0.0.0        240.0.0.0            在链路上    169.254.165.38    291
+  255.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+  255.255.255.255  255.255.255.255            在链路上     192.168.1.103    301
+  255.255.255.255  255.255.255.255            在链路上    169.254.99.211    291
+  255.255.255.255  255.255.255.255            在链路上    169.254.165.38    291
+===========================================================================
+永久路由:
+  无
+
+IPv6 路由表
+===========================================================================
+活动路由:
+ 接口跃点数网络目标                网关
+  1    331 ::1/128                  在链路上
+ 17    301 fe80::/64                在链路上
+ 10    291 fe80::/64                在链路上
+  3    291 fe80::/64                在链路上
+ 10    291 fe80::4ddf:fed3:ca10:63d3/128
+                                    在链路上
+  3    291 fe80::51b7:205a:b9a4:a526/128
+                                    在链路上
+ 17    301 fe80::6115:3a95:744e:8b95/128
+                                    在链路上
+  1    331 ff00::/8                 在链路上
+ 17    301 ff00::/8                 在链路上
+ 10    291 ff00::/8                 在链路上
+  3    291 ff00::/8                 在链路上
+===========================================================================
+永久路由:
+  无
+
+arp information
+接口: 169.254.165.38 --- 0x3
+  Internet 地址         物理地址              类型
+  169.254.255.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.11.20.1           01-00-5e-0b-14-01     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+接口: 169.254.99.211 --- 0xa
+  Internet 地址         物理地址              类型
+  169.254.255.255       ff-ff-ff-ff-ff-ff     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.11.20.1           01-00-5e-0b-14-01     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+接口: 192.168.1.103 --- 0x11
+  Internet 地址         物理地址              类型
+  192.168.1.1           34-96-72-b3-a9-f9     动态
+  192.168.1.100         f0-9c-d7-22-3c-ca     动态
+  192.168.1.255         ff-ff-ff-ff-ff-ff     静态
+  224.0.0.22            01-00-5e-00-00-16     静态
+  224.0.0.251           01-00-5e-00-00-fb     静态
+  224.0.0.252           01-00-5e-00-00-fc     静态
+  239.11.20.1           01-00-5e-0b-14-01     静态
+  239.255.255.250       01-00-5e-7f-ff-fa     静态
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+information of processes
+PsList v1.4 - Process information lister
+Copyright (C) 2000-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Process information for DESKTOP-6LLT1I5:
+
+Name                Pid Pri Thd  Hnd   Priv        CPU Time    Elapsed Time
+Idle                  0   0   8    0     60  1019:51:17.015   653:08:42.789
+System                4   8 212 7351    196     4:56:55.250   653:08:42.789
+Registry            120   8   4    0  13332     0:00:20.656   653:08:46.498
+smss                424  11   2   53   1168     0:00:00.312   653:08:42.785
+csrss               640  13  12  842   1988     0:00:49.296   653:08:38.057
+wininit             740  13   1  160   1596     0:00:00.156   653:08:36.341
+services            812   9   8  763   6076     0:07:31.437   653:08:36.182
+lsass               820   9  10 1937  12108     0:04:17.281   653:08:36.145
+svchost             976   8   2   86    968     0:00:00.046   653:08:35.849
+svchost            1016   8  24 1411  21452     0:11:25.578   653:08:35.835
+fontdrvhost         500   8   5   32   2276     0:00:00.687   653:08:35.821
+svchost             832   8  16 1431  12704     0:11:07.234   653:08:35.621
+svchost            1044   8   4  283   2764     0:01:13.562   653:08:35.581
+svchost            1204   8   4  257   2872     0:00:27.187   653:08:35.243
+svchost            1212   8   2  155   2692     0:00:02.171   653:08:35.243
+svchost            1312   8   6  276   3060     0:00:00.781   653:08:35.205
+svchost            1336   8   7  139   1788     0:00:00.750   653:08:35.199
+svchost            1476   8   3  221   2696     0:00:01.484   653:08:35.149
+svchost            1484   8   7  449  18512     0:00:51.921   653:08:35.148
+NVDisplay.Container  1576   8  11  300   5348     0:08:41.328   653:08:35.111
+svchost            1640   8  32  223  10528     0:06:46.671   653:08:35.089
+svchost            1688   8  10  252   2984     0:11:33.890   653:08:35.061
+svchost            1756   8   3  231   3304     0:00:01.750   653:08:35.036
+svchost            1764   8   6  230   5984     0:06:14.265   653:08:35.035
+svchost            1772   8   7  184   2328     0:00:03.296   653:08:35.035
+svchost            1776   8   3  249   1344     0:00:01.875   653:08:35.035
+svchost            1992   8   6  366  12696     0:05:11.500   653:08:34.986
+Memory Compression  2032   8 258    0   1352     0:08:06.484   653:08:34.974
+svchost            1384   8   2  228   2352     0:00:08.359   653:08:34.973
+svchost            1552   8  13  414   5892     0:13:03.640   653:08:34.964
+svchost            2072   8  11  427   9568     0:01:24.500   653:08:34.957
+svchost            2140   8  13  303   4720     2:12:43.296   653:08:34.936
+igfxCUIService     2164   8   2  171   2128     0:00:00.359   653:08:34.922
+svchost            2220   8   3  290   2920     0:00:02.078   653:08:34.897
+svchost            2228   8   6  274   3244     0:01:04.875   653:08:34.897
+svchost            2384   8   3  219   1892     0:00:03.875   653:08:34.835
+svchost            2500   8   9 6181   5208     0:04:31.468   653:08:34.794
+svchost            2668   8   9  397   4428     0:01:58.015   653:08:34.635
+svchost            2688   8   5  194   2424     0:02:18.031   653:08:34.606
+svchost            2796   8   4  136   1776     0:00:16.015   653:08:34.479
+svchost            2812   8  12  380   3284     0:01:01.375   653:08:34.473
+ZhuDongFangYu      2844   8  22  497  17740     0:01:44.609   653:08:34.436
+svchost            3000   8  17  534   7820     0:04:24.718   653:08:34.274
+svchost            3048   8   5  263   3876     0:00:03.531   653:08:34.161
+AsLdrSrv           3056   8   5  133   1752     0:00:00.609   653:08:34.160
+spoolsv            3136   8  11  557   9300     0:00:10.750   653:08:34.103
+svchost            3232   8  14  512  14200     0:05:43.187   653:08:34.048
+svchost            3308   8   6  190   2180     0:00:24.406   653:08:33.964
+wlanext            3376   8   9  399   5232     0:00:48.500   653:08:33.846
+conhost            3384   8   2  118   6424     0:00:00.078   653:08:33.838
+svchost            3656   8   3  268   2412     0:00:16.078   653:08:33.620
+svchost            3664   8  16  489  17088     0:55:44.078   653:08:33.619
+svchost            3672   8  10  404   5016     0:00:47.671   653:08:33.618
+AsHidSrv           3680   8   4  118   1460     0:00:00.718   653:08:33.618
+svchost            3688   8   4  218   2576     0:00:03.343   653:08:33.617
+IpOverUsbSvc       3712   8   6  276   9860     0:00:02.968   653:08:33.612
+svchost            3720   8   8  274   2960     0:03:40.546   653:08:33.606
+svchost            3736   8   7  437   6812     0:00:38.156   653:08:33.604
+svchost            3772   8   2  132   1664     0:00:00.171   653:08:33.601
+RegSrvc            3780   8   2  179   2300     0:00:00.328   653:08:33.601
+ICEsoundService64  3800   8   5 9345   6560     0:00:25.937   653:08:33.597
+ibtsiva            3820   8   1   92   1248     0:00:00.828   653:08:33.596
+AsusGamingControlService  3848   8   4  280  18056     0:00:31.312   653:08:33.593
+IntelCpHDCPSvc     3868   8   3  145   1740     0:00:00.187   653:08:33.590
+vmnat              3880   8   4  174   3432     0:00:07.828   653:08:33.589
+nvcontainer        3888   8  24  549  11020     0:04:53.296   653:08:33.589
+QQProtect          3908   8  24  666  19580     0:01:04.218   653:08:33.584
+sqlwriter          3916   8   2  141   1908     0:00:00.281   653:08:33.582
+sqlservr           3940   8  42  525  51172     4:26:37.109   653:08:33.580
+servicehost        3956   8   2  136   1640     0:00:00.140   653:08:33.577
+ZeroConfigService  3964   8  12  356   6272     0:01:21.390   653:08:33.577
+NvTelemetryContainer  3972   8   9  294   6656     0:00:04.328   653:08:33.576
+AGSService         4036   8   3  557   6564     0:00:16.187   653:08:33.569
+AGMService         3388   8   3  280   3992     0:02:18.828   653:08:33.553
+svchost            4392   8   6  208   2412     0:00:09.515   653:08:33.475
+dasHost            4424   8   2  475   8372     0:00:16.218   653:08:33.457
+vmware-usbarbitrator64  4452   8   3  225   3156     0:00:02.718   653:08:33.451
+svchost            4512   8  18  532   4564     0:04:04.625   653:08:33.439
+IntelCpHeciSvc     4800   8   3  136   1700     0:00:00.390   653:08:33.333
+svchost            4908   8  14  391   3832     0:00:46.359   653:08:33.287
+unsecapp           5768   8   3  142   2280     0:00:06.578   653:08:32.666
+svchost            6068   8   4  166   1860     0:00:36.140   653:08:32.466
+WmiPrvSE           6808   8   6  245   7552     0:00:31.343   653:08:31.093
+svchost            6884   8   2  126   1680     0:00:00.328   653:08:31.012
+svchost            7596   8   7  269   4580     0:01:53.281   653:08:23.475
+svchost            7676   8   4  176   2028     0:00:00.125   653:08:23.445
+svchost            7940   8   2  131   1392     0:00:00.203   653:08:23.149
+dllhost            7872   8   4  204   4200     0:00:00.437   653:08:22.823
+svchost            8416   8  12  448   5856     0:00:46.781   653:08:22.624
+svchost            9568   8  12  193   2632     0:00:01.562   653:08:18.000
+SecurityHealthService 11068   8  12  453   5344     0:00:06.562   653:08:08.484
+svchost            8372   8   8  531   5980     0:01:11.578   653:07:37.929
+LMS                9380   8   4  280   4288     0:00:01.265   653:06:30.592
+SgrmBroker         6340   8   5   89   4584     0:00:17.109   653:06:30.246
+svchost            1864   8   8  237   2984     0:00:02.781   653:06:29.488
+svchost            4264   8   2  231   2920     0:00:38.968   652:48:26.433
+svchost           10324   8   7  213   2620     0:00:30.609   651:41:59.377
+svchost            1824   8   2  143   1804     0:00:00.187   651:41:53.516
+svchost             944   8  12  772 111264     0:09:28.578   650:40:24.916
+svchost            5908   8   5  197   6672     0:00:00.687   630:24:00.369
+svchost            7036   8  10  425   5512     0:00:41.156   630:24:00.191
+svchost           11348   8   4  185   2628     0:01:07.796   610:24:50.720
+svchost           11924   8   4  226   3016     0:00:00.625   609:07:24.843
+AppVShNotify      19236   8   1  157   1756     0:00:00.062   539:31:46.243
+csrss             16516  13  16  763   2852     0:22:01.250   509:32:07.274
+winlogon          15688  13   7  277   3188     0:00:03.906   509:32:06.856
+fontdrvhost       13432   8   5   32   7992     0:03:10.687   509:32:06.253
+dwm               19104  13  16 1971 155732     3:36:43.531   509:32:05.640
+NVDisplay.Container 17952   8  20  610  25976     0:00:32.578   509:31:57.917
+HControl          13504   8   4  235   2424     0:00:02.062   491:08:05.537
+nvcontainer       12348   8  25  452  14892     0:02:23.734   491:08:05.472
+sihost             3812   8  18 1055  23300     0:01:42.937   491:08:05.393
+svchost            9764   8  18  582  13780     0:09:27.828   491:08:05.367
+svchost           11540   8   5 1349  11680     0:00:39.843   491:08:05.333
+taskhostw         16612   8  10  371  21896     0:02:52.531   491:08:05.272
+USBChargerPlus    15768   6   2  175   2076     0:00:15.421   491:08:05.258
+igfxEM            16880   8  13 1308   8320     0:01:36.250   491:08:05.182
+DMedia            15144   8   3  191   1916     0:00:00.515   491:08:04.877
+ATKOSD2           13596   8   2  197   2916     0:00:00.734   491:08:04.841
+explorer           5104   8 205 4140 250372     1:06:50.187   491:08:04.791
+svchost           11384   8   8  437   4392     0:00:11.765   491:08:03.459
+StartMenuExperienceHost 11824   8   9  603  40508     0:00:15.109   491:08:02.748
+RuntimeBroker     17776   8   3  337   4420     0:00:06.156   491:08:02.479
+SettingSyncHost    9592   6  11  676  30772     0:06:49.890   491:08:02.044
+SearchUI           9560   8  62 1671 113868     0:00:09.703   491:08:02.020
+RuntimeBroker      8736   8  12  598  13688     0:00:41.484   491:08:01.729
+ctfmon             7208  13  11  981  37828     0:12:04.156   491:08:01.621
+LockApp           15224   8  10  608  13852     0:00:24.406   491:08:00.982
+RuntimeBroker      8668   8   6  393  10648     0:01:06.000   491:08:00.684
+ChsIME             6732   8   2  155   1952     0:00:00.171   491:08:00.575
+smartscreen       10828   8  20  613  29708     0:01:29.312   491:07:58.805
+WindowsInternal.ComposableShell.Experiences.TextInput.InputApp 12100   8  16  667  12956     0:02:16.875   491:07:53.998
+SecurityHealthSystray  3108   8   1  155   2020     0:00:00.500   491:07:51.137
+ACMON             19272   6   1  240  11568     0:00:02.750   491:07:04.774
+igfxext           14404   8   2  147  11676     0:00:02.500   491:07:02.789
+svchost           16100   8   4  479   5652     0:00:01.750   491:06:05.298
+NVIDIA Web Helper 14612   6  79  616  36616     0:00:41.984   491:06:03.617
+conhost            6728   6   2  118   6520     0:00:00.140   491:06:02.976
+ApplicationFrameHost  2776   8  22  928  49536     0:12:31.406   491:02:44.207
+dllhost           17392   8   7  328   7148     0:00:04.281   490:58:21.472
+RuntimeBroker      9168   8   9  793  13212     0:00:55.718   490:58:21.345
+dllhost            1472   8   5 1641  16976     0:01:02.343   490:57:34.871
+WmiPrvSE          10104   8   7  338  14256     0:33:12.140   490:30:15.894
+ShellExperienceHost  6236   8  21 2972  41404     0:01:18.343   461:29:06.083
+RuntimeBroker      4276   8   5  396   7496     0:00:17.546   456:04:04.331
+SpeechRuntime     11708   8  17  659  22884     0:00:46.250   397:16:19.933
+SogouImeBroker    10252   8   4  424   7860     0:00:04.921   374:04:22.011
+RuntimeBroker      8276   8   1  247   3228     0:00:00.484   373:58:02.181
+svchost           14364   8   7  184   2388     0:00:26.718   372:43:00.086
+svchost           19140   8   4  261   9348     0:00:05.765   372:42:48.823
+vmware-authd       1556   8   6  316   8912     0:16:57.406   372:42:08.450
+vmware-hostd      17716   8  22  432  34032     0:00:06.656   372:42:07.605
+svchost            2260   8  20  414  29680     0:12:58.531   372:40:58.134
+svchost           19208   8   8  233   4468     0:00:06.640   372:39:18.607
+svchost           16404   8   2  108   1352     0:00:03.265   371:35:34.195
+svchost            1708   8   3  106   1324     0:00:00.187   371:18:42.244
+svchost            8880   8   6  275   3124     0:00:08.484   369:23:37.743
+taskhostw          5476   8   8  441   9204     0:00:08.000   368:55:57.039
+svchost           13456   8  14  677  20952     0:03:15.406   368:09:28.319
+svchost           19532   8   3  144   1812     0:00:00.109   340:13:16.536
+yundetectservice  12088   8  15  313   5448     0:00:13.625   254:48:29.213
+svchost             552   8   5  184   2248     0:00:03.984   180:51:39.027
+OfficeClickToRun  23696   8  26  854  38444     0:00:31.703    38:28:31.913
+AppVShNotify      17596   8   1  157   1696     0:00:00.046    38:28:11.369
+AppVShNotify      22696   8   1  162   1916     0:00:00.046    38:28:11.269
+svchost           13764   8   6  161   1828     0:00:00.062    38:28:02.971
+SearchIndexer     11152   8  32  813  41440     0:00:17.031    38:27:28.963
+QQ                10764   8  94 2113 229544     0:35:10.328    38:24:28.273
+TXPlatform        22116   8   2  223   4596     0:00:00.187    38:24:23.029
+wemeetlauncher    12696   8   7  261   7580     0:00:00.250    13:28:27.764
+wps                7216   8  65 2087  62336     0:01:35.218    12:50:23.044
+svchost            9472   8   3  208   2212     0:00:00.203     9:13:41.636
+wpscenter         23704   8  15 1009  96184     0:02:20.546     6:11:59.525
+SogouCloud        16716   8  25  563  14672     0:02:12.843     5:55:00.011
+360tray           21172   8 150 1850 186104     0:01:42.265     5:24:59.664
+MicrosoftEdge     11592   8  35 1955  48596     0:01:01.703     3:37:14.895
+browser_broker    10144   8   8  404   4240     0:00:00.546     3:37:14.739
+MicrosoftEdgeSH   20276   8  10  311   5224     0:00:08.625     3:37:14.516
+svchost           11044   8  10  179   2240     0:00:00.062     1:09:11.290
+audiodg           19108   8  15  699  95748     0:02:58.296     1:09:10.657
+MicrosoftEdgeCP   23268   8  51 1333 116776     0:01:50.796     1:08:39.838
+MicrosoftEdgeCP    6320   8  47 1315 151156     0:01:15.093     1:08:18.346
+MicrosoftEdgeCP   22120   8  15  533   6888     0:00:01.109     1:08:16.149
+RuntimeBroker     22232   8   9  503   9668     0:00:02.937     1:00:45.312
+Microsoft.Photos  13404   8  19 1323  60288     0:00:12.968     0:45:56.617
+RuntimeBroker     21668   8   9  614   7568     0:00:01.500     0:45:55.438
+MicrosoftEdgeCP   18348   6  35  876  49484     0:00:02.031     0:36:20.493
+MicrosoftEdgeCP   14880   8  15  518   6908     0:00:00.656     0:34:11.073
+vds               14344   8  13  246   2816     0:00:00.140     0:30:20.387
+Video.UI           2252   8 104 1546 110032     0:00:26.593     0:14:17.072
+DataExchangeHost   8392  10   7  301   7356     0:00:00.406     0:08:58.634
+SearchProtocolHost 15248   4   6  271   1960     0:00:00.078     0:08:21.127
+XMP                6908   8  41  894 271180     0:00:44.812     0:05:45.264
+WmiPrvSE          21296   8   9  358  27968     0:00:02.296     0:03:42.718
+svchost            4680   8   7  234   2116     0:00:00.109     0:03:41.508
+SearchFilterHost  15328   4   4  131   1432     0:00:00.031     0:01:57.225
+cmd               21096   8   3   79   4392     0:00:00.078     0:00:25.367
+conhost            8096   8  10  359  16956     0:00:00.828     0:00:25.338
+pslist            23204  13  10  394   9188     0:00:00.859     0:00:02.655
